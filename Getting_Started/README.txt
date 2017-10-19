@@ -53,8 +53,6 @@ sudo npm install -g cordova
 
 //Сборка cordova-приложения
 https://build.phonegap.com/
-spendlively@mail.ru
-!LivelY@860819#
 //~/bin/Sencha/Cmd/sencha -sdk /path/to/Framework generate app MyApp /path/to/MyApp
 
 
