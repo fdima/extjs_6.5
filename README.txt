@@ -22,7 +22,7 @@ sudo apt-get install default-jre
 ./SenchaCmd...
 
 //Линковка с библиотекой
-~/bin/Sencha/Cmd/sencha app install --framework=/home/spendlively/vhosts/extjs/ext-6.5.1/
+~/bin/Sencha/Cmd/sencha app install --framework=/home/spendlively/bin/Sencha/ext-6.5.2/
 ~/bin/Sencha/Cmd/sencha app upgrade -ext -path "/home/spendlively/bin/Sencha/ext-6.5.2/"
 
 //Сборка проекта в папку build
